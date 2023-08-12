@@ -25,13 +25,13 @@ Bonjour! I'm Vatthana, a 28-year-old French adventurer currently embracing the v
 🔍 Exploring Cutting-Edge Technologies with a Taste for Innovation  
 🤝 Collaborating with Fellow Developers to Ignite Ideas  
 
-## Tech Toolbox in the Making:
+## Tech Toolbox in the Making
 
-📦 Front-end Magic: HTML, CSS, JavaScript
-📡 Back-end Wizardry: Node.js, Express.js
-🐍 Python Prowess: Flask, Django
-🗃️ Database Sorcery: MongoDB
-⚙️ Version Control Maestro: Git
+📦 Front-end Magic: HTML, CSS, JavaScript  
+📡 Back-end Wizardry: Node.js, Express.js  
+🐍 Python Prowess: Flask, Django  
+🗃️ Database Sorcery: MongoDB  
+⚙️ Version Control Maestro: Git  
 🚀 Lifelong Learning: Continuous Improvement
 
 
