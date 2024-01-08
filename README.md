@@ -27,7 +27,8 @@ Bonjour! I'm Vatthana, a 28-year-old French adventurer currently embracing the v
 
 ## Tech Toolbox in the Making
 
-📦 Front-end Magic: HTML, CSS, JavaScript, React, Typescript  
+📦 Front-end Magic: HTML, CSS, JavaScript, React, Typescript 
+🎨 CSS Framework Artisan: Tailwind CSS, Bootstrap, Material-UI (Mui)
 📡 Back-end Wizardry: Node.js, Express.js  
 🐍 Python Prowess: Flask, Django  
 🗃️ Database Sorcery: MongoDB, MySQL  
