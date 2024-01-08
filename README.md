@@ -32,7 +32,8 @@ Bonjour! I'm Vatthana, a 28-year-old French adventurer currently embracing the v
 📡 Back-end Wizardry: Node.js, Express.js  
 🐍 Python Prowess: Flask, Django  
 🗃️ Database Sorcery: MongoDB, MySQL  
-⚙️ Version Control Maestro: Git  
+💻 DevOps Alchemist: CI/CD, Docker
+⚙️ Version Control: Git  
 🚀 Lifelong Learning: Continuous Improvement
 
 
