@@ -17,7 +17,6 @@ Bonjour! I'm Vatthana, a 28-year-old French adventurer currently embracing the v
 📜 Embracing the Challenge of Full Stack Development  
 💻 Enthusiastic about Front-end and Back-end Equally  
 ⌨️ Coding with Finesse and a Pinch of Creativity  
-
 🎓 Level 4: Certificate in Technology Product Development Essentials (NZQA accredited)
 🎓 Level 5: Certificate in Technology Product Solutions (NZQA accredited)
 🎓 Level 6: Certificate in Applied Technology Product Solutions at Mission Ready (NZQA accredited)
