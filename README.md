@@ -18,6 +18,10 @@ Bonjour! I'm Vatthana, a 28-year-old French adventurer currently embracing the v
 💻 Enthusiastic about Front-end and Back-end Equally  
 ⌨️ Coding with Finesse and a Pinch of Creativity  
 
+🎓 Level 4: Certificate in Technology Product Development Essentials (NZQA accredited)
+🎓 Level 5: Certificate in Technology Product Solutions (NZQA accredited)
+🎓 Level 6: Certificate in Applied Technology Product Solutions at Mission Ready (NZQA accredited)
+
 ## My Goals
 
 🚀 Creating Seamless, User-Centric Digital Experiences  
@@ -27,7 +31,7 @@ Bonjour! I'm Vatthana, a 28-year-old French adventurer currently embracing the v
 
 ## Tech Toolbox in the Making
 
-📦 Front-end Magic: HTML, CSS, JavaScript, React, Typescript   
+📦 Front-end Magic: HTML, CSS, JavaScript, React, Typescript, Next.js  
 🎨 CSS Framework Artisan: Tailwind CSS, Bootstrap, Material-UI (Mui)    
 📡 Back-end Wizardry: Node.js, Express.js    
 🐍 Python Prowess: Flask, Django  
@@ -42,6 +46,7 @@ Bonjour! I'm Vatthana, a 28-year-old French adventurer currently embracing the v
 🌐 [GitHub](https://github.com/VatthanaB) 
 👔 [LinkedIn](https://www.linkedin.com/in/vatthana-boulom/)  
 🧙‍♂️ [Personal Website](https://vatthana-portfolio-a20e88488316.herokuapp.com/)
+🚀 [Projects Portfolio](https://projects-portfolio-vatthana.vercel.app/)
 
 Let's embark on this coding adventure together, combining flavors from the culinary world with the endless possibilities of code. Reach out if you're excited about technology, creativity, or just want to chat over a virtual cup of coffee!
 
