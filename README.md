@@ -42,7 +42,7 @@ Bonjour! I'm Vatthana, a 29-year-old French adventurer currently embracing the v
 
 - 🌐 [GitHub](https://github.com/VatthanaB) 
 - 👔 [LinkedIn](https://www.linkedin.com/in/vatthana-boulom/)  
-- 🧙‍♂️ [Personal Website](https://vatthana-portfolio-a20e88488316.herokuapp.com/)
+- 🧙‍♂️ [Personal Website](https://vatthana-boulom.vercel.app/)
 - 🚀 [Projects Portfolio](https://projects-portfolio-vatthana.vercel.app/)
 
 Let's embark on this coding adventure together, combining flavors from the culinary world with the endless possibilities of code. Reach out if you're excited about technology, creativity, or just want to chat over a virtual cup of coffee!
