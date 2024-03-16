@@ -1,6 +1,6 @@
 ## Welcome to My GitHub Profile! 👋
 
-Bonjour! I'm Vatthana, a 28-year-old French adventurer currently embracing the vibrant vibes of Auckland, New Zealand. My journey began more than a decade ago, crafting delectable and artful pastries within the esteemed walls of Michelin-starred restaurants and opulent palace hotels across the charming city of Paris. But now, I'm embarking on an exhilarating transformation, charting a new course from being a seasoned pastry virtuoso to a burgeoning Full Stack Developer.
+Bonjour! I'm Vatthana, a 29-year-old French adventurer currently embracing the vibrant vibes of Auckland, New Zealand. My journey began more than a decade ago, crafting delectable and artful pastries within the esteemed walls of Michelin-starred restaurants and opulent palace hotels across the charming city of Paris. But now, I'm embarking on an exhilarating transformation, charting a new course from being a seasoned pastry virtuoso to a burgeoning Full Stack Developer.
 
 ### About Me
 
