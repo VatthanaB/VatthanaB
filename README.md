@@ -1,50 +1,65 @@
-## Welcome to My GitHub Profile! 👋
+## Professional Portfolio
 
-Bonjour! I'm Vatthana, a 29-year-old French adventurer currently embracing the vibrant vibes of Auckland, New Zealand. My journey began more than a decade ago, crafting delectable and artful pastries within the esteemed walls of Michelin-starred restaurants and opulent palace hotels across the charming city of Paris. But now, I'm embarking on an exhilarating transformation, charting a new course from being a seasoned pastry virtuoso to a burgeoning Full Stack Developer.
+I'm Vatthana Boulom, a Full Stack Developer based in Auckland, New Zealand, with expertise in modern web technologies and AI integration. Leveraging my unique background transitioning from culinary arts to software development, I bring exceptional attention to detail, creative problem-solving, and a results-driven approach to every project.
 
-### About Me
+### Professional Summary
+- 💻 **Full Stack Developer** with proven expertise in JavaScript, React, and Python ecosystems
+- 🤖 **AI Integration Specialist** implementing OpenAI, Azure AI services, and agentic frameworks
+- ☁️ **Cloud Architecture** experience with AWS and Azure production environments
+- 🌐 **Social Impact Focus** developing platforms that empower communities and drive engagement
+- 🔄 **Adaptable Professional** with a history of successful career transition and continuous growth
 
-- 🥐 **From Pastries to Pixels:** A Delectable Transition
-- 🇫🇷 **Parisian Artistry meets Kiwi Innovation**
-- 🌏 **Exploring New Zealand's Wonders while Crafting Code**
-- 📚 **Currently mastering Full Stack Development at Mission Ready HQ**
-- ⌨️ **Blending Precision from the Kitchen with the Logic of Code**
+### Professional Experience
+- 👨‍💻 **Full Stack Engineer at Seen Ventures** (Jan 2025 - Present)
+  - Developing innovative solutions with JavaScript, Next.js, React, Node.js and Python
+  - Managing cloud services on AWS and Azure
+  - Mentoring teams through experiential programs and school initiatives
 
-### My Path
+- 🚀 **Full Stack Developer at Buzzly** (Jul 2024 - Present)
+  - Building a youth engagement platform with Next.js 14 and Strapi CMS
+  - Managing AWS infrastructure (Lambda, S3, ECS, Amplify)
+  - Contributing to a social impact venture empowering young voices
 
-- 👨‍🍳 **A Decade of Culinary Excellence in Paris and Auckland**
-- 📜 **Embracing the Challenge of Full Stack Development**
-- 💻 **Enthusiastic about Front-end and Back-end Equally**
-- ⌨️ **Coding with Finesse and a Pinch of Creativity**
-- 🎓 **Level 4:** Certificate in Technology Product Development Essentials (NZQA accredited)
-- 🎓 **Level 5:** Certificate in Technology Product Solutions (NZQA accredited)
+- 🔍 **Contract Work** with TORO Technology, Calibrate Marketing Agency, and Datacom
+  - Leading AI-powered dialect revitalization projects
+  - Content migration and WordPress development
+  - Strapi CMS and Next.js implementation
+
+### Education
 - 🎓 **Level 6:** Certificate in Applied Technology Product Solutions at Mission Ready (NZQA accredited)
+- 🎓 **Level 5:** Certificate in Technology Product Solutions (NZQA accredited)
+- 🎓 **Level 4:** Certificate in Technology Product Development Essentials (NZQA accredited)
 
-### My Goals
+### Technical Expertise
+- 📦 **Front-end Engineering:** JavaScript, React, Next.js, TypeScript
+- 🎨 **UI Frameworks:** Tailwind CSS, Bootstrap, Material-UI (MUI)
+- 📡 **Back-end Development:** Node.js, Express.js, Python
+- ☁️ **Cloud Architecture:** AWS (Lambda, S3, ECS, Amplify), Azure
+- 📊 **Content Management:** Strapi, WordPress
+- 🤖 **AI & LLM Integration:** 
+  - OpenAI SDK
+  - Azure Custom Translator, OCR, TTS
+  - Agentic Frameworks
+  - AutoGen
+  - Microsoft Copilot (MCP)
+- 🔧 **Development Tools:**
+  - Pydantic for data validation
+  - Schema design and type safety
+- 🗃️ **Database Management:** PostgreSQL, MySQL, MongoDB
+- 💻 **DevOps & Infrastructure:** Docker, CI/CD, Git
+- 🚀 **Continuous Professional Development:** Advanced AI architectures, microservices
 
-- 🚀 **Creating Seamless, User-Centric Digital Experiences**
-- 🌐 **Crafting Aesthetically Pleasing and Functional Web Applications**
-- 🔍 **Exploring Cutting-Edge Technologies with a Taste for Innovation**
-- 🤝 **Collaborating with Fellow Developers to Ignite Ideas**
-
-### Tech Toolbox in the Making
-
-- 📦 **Front-end Magic:** HTML, CSS, JavaScript, React, Typescript, Next.js
-- 🎨 **CSS Framework Artisan:** Tailwind CSS, Bootstrap, Material-UI (Mui)
-- 📡 **Back-end Wizardry:** Node.js, Express.js
-- 🐍 **Python Prowess:** Flask, Django
-- 🗃️ **Database Sorcery:** MongoDB, MySQL
-- 💻 **DevOps Alchemist:** CI/CD, Docker
-- ⚙️ **Version Control:** Git
-- 🚀 **Lifelong Learning:** Continuous Improvement
+### Strategic Focus
+- 🔍 Advancing implementation of autonomous AI agents and multi-agent systems in production environments
+- 🔄 Developing robust, scalable DevOps pipelines for efficient software delivery
+- 🌐 Architecting cloud-native solutions that prioritize security, performance, and cost optimization
+- 👥 Contributing to open-source projects in AI and web development ecosystems
 
 ### Connect with Me
-
 - 🌐 [GitHub](https://github.com/VatthanaB) 
 - 👔 [LinkedIn](https://www.linkedin.com/in/vatthana-boulom/)  
-- 🧙‍♂️ [Personal Website](https://vatthana-boulom-framer-portfolio.vercel.app/)
+- 🧙‍♂️ [Portfolio](https://vatthana-boulom-framer-portfolio.vercel.app/)
 
+With a foundation in both creative and technical disciplines, I approach software development with a unique perspective that values both functionality and user experience. I'm committed to continuous learning and implementing best practices across all aspects of the development lifecycle.
 
-Let's embark on this coding adventure together, combining flavors from the culinary world with the endless possibilities of code. Reach out if you're excited about technology, creativity, or just want to chat over a virtual cup of coffee!
-
-À bientôt and happy coding! 🚀
+**Open to discussing collaboration opportunities and technical challenges.**
